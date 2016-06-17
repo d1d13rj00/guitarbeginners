@@ -1,3 +1,3 @@
-# guitarbeginners
+# Learning guitar for beginners
 
-Guitar tuition for beginners
+[Table of content](Table_of_content.md)
